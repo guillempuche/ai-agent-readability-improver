@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-readability-improver",
+  "owner": {
+    "name": "guillempuche",
+    "url": "https://github.com/guillempuche"
+  },
+  "plugins": [
+    {
+      "name": "ai-agent-readability-improver",
+      "source": "./"
+    }
+  ]
+}

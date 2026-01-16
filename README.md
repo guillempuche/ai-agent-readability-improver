@@ -5,7 +5,11 @@ Use this agent to improve code readability through renaming, comments, and white
 ## Install
 
 ```bash
+# Add marketplace
 /plugin marketplace add guillempuche/ai-agent-readability-improver
+
+# Install plugin
+/plugin install ai-agent-readability-improver@guillempuche-ai-agent-readability-improver
 ```
 
 ## Part of AI Standards
