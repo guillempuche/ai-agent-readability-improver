@@ -1,7 +1,7 @@
 {
-  "name": "ai-agent-readability-improver",
+  "name": "readability-improver",
   "version": "1.0.0",
-  "description": "Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skip",
+  "description": "Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skips ",
   "author": {
     "name": "guillempuche",
     "url": "https://github.com/guillempuche"

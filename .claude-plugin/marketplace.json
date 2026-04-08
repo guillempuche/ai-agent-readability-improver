@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "ai-agent-readability-improver",
+      "name": "readability-improver",
       "source": "./"
     }
   ]
