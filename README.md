@@ -1,6 +1,6 @@
 # ai-agent-readability-improver
 
-Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skips 
+Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skips self-documenting code.
 
 ## Install
 

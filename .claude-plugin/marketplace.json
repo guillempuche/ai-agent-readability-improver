@@ -1,5 +1,6 @@
 {
   "name": "ai-agent-readability-improver",
+  "description": "Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skips self-documenting code.",
   "owner": {
     "name": "guillempuche",
     "url": "https://github.com/guillempuche"
@@ -7,7 +8,10 @@
   "plugins": [
     {
       "name": "readability-improver",
-      "source": "./"
+      "description": "Use this agent to improve code readability through renaming, comments, and whitespace. Use after writing complex logic or when code would benefit from clarification. The agent is selective — it skips self-documenting code.",
+      "source": "./",
+      "license": "MIT",
+      "homepage": "https://github.com/guillempuche/ai-agent-readability-improver"
     }
   ]
 }
